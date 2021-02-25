@@ -1,2 +1,2 @@
 ## NLP / Machine-Learning / Deep-Learning...
-머신러닝, 딥러닝등에 대한 공부, 프로젝트
+NLP, 머신러닝, 딥러닝에 대한 공부, 프로젝트
